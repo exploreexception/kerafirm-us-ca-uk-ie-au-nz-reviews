@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/kerafirm-us-ca-uk-ie-au-nz-reviews/sitemap.xml
